@@ -72,7 +72,7 @@ export default function KriyaWebsite() {
           </div>
 
           <div className="flex items-center space-x-4">
-            <ThemeToggle />
+            {/* <ThemeToggle /> */}
             <Button
               variant="outline"
               size="sm"
